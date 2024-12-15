@@ -1,0 +1,15 @@
+D:\Projects\Git\DotNetTest\TestConsole\TestConsole\bin\Debug\net8.0\TestConsole.exe
+D:\Projects\Git\DotNetTest\TestConsole\TestConsole\bin\Debug\net8.0\TestConsole.deps.json
+D:\Projects\Git\DotNetTest\TestConsole\TestConsole\bin\Debug\net8.0\TestConsole.runtimeconfig.json
+D:\Projects\Git\DotNetTest\TestConsole\TestConsole\bin\Debug\net8.0\TestConsole.dll
+D:\Projects\Git\DotNetTest\TestConsole\TestConsole\bin\Debug\net8.0\TestConsole.pdb
+D:\Projects\Git\DotNetTest\TestConsole\TestConsole\obj\Debug\net8.0\TestConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Git\DotNetTest\TestConsole\TestConsole\obj\Debug\net8.0\TestConsole.AssemblyInfoInputs.cache
+D:\Projects\Git\DotNetTest\TestConsole\TestConsole\obj\Debug\net8.0\TestConsole.AssemblyInfo.cs
+D:\Projects\Git\DotNetTest\TestConsole\TestConsole\obj\Debug\net8.0\TestConsole.csproj.CoreCompileInputs.cache
+D:\Projects\Git\DotNetTest\TestConsole\TestConsole\obj\Debug\net8.0\TestConsole.sourcelink.json
+D:\Projects\Git\DotNetTest\TestConsole\TestConsole\obj\Debug\net8.0\TestConsole.dll
+D:\Projects\Git\DotNetTest\TestConsole\TestConsole\obj\Debug\net8.0\refint\TestConsole.dll
+D:\Projects\Git\DotNetTest\TestConsole\TestConsole\obj\Debug\net8.0\TestConsole.pdb
+D:\Projects\Git\DotNetTest\TestConsole\TestConsole\obj\Debug\net8.0\TestConsole.genruntimeconfig.cache
+D:\Projects\Git\DotNetTest\TestConsole\TestConsole\obj\Debug\net8.0\ref\TestConsole.dll

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\Git\\Test\\TestConsole\\TestConsole\\TestConsole.csproj",
+      "projectUniqueName": "D:\\Projects\\Git\\DotNetTest\\TestConsole\\TestConsole\\TestConsole.csproj",
       "projectName": "TestConsole",
-      "projectPath": "D:\\Projects\\Git\\Test\\TestConsole\\TestConsole\\TestConsole.csproj",
+      "projectPath": "D:\\Projects\\Git\\DotNetTest\\TestConsole\\TestConsole\\TestConsole.csproj",
       "packagesPath": "C:\\Users\\shahz\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\Git\\Test\\TestConsole\\TestConsole\\obj\\",
+      "outputPath": "D:\\Projects\\Git\\DotNetTest\\TestConsole\\TestConsole\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

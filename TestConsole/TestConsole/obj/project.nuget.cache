@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bs/E4hOVPA2cWetu21vk2tLAixNGvfFl1qLSVHr1WLg6LbeCj0mOmEA2ACc4iyraHqHqsa76JuIXnUmmWCbMZA==",
+  "dgSpecHash": "sWcUIoYk/iLq/pqXjlHDOo4VUJ0oKSHhmJwxu9SXOnWOb/J5Z6J+8bbh+zwPnRSnk383xuWSxnNgxoABHwqnlg==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\Git\\Test\\TestConsole\\TestConsole\\TestConsole.csproj",
+  "projectFilePath": "D:\\Projects\\Git\\DotNetTest\\TestConsole\\TestConsole\\TestConsole.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
